@@ -6,3 +6,25 @@
 	<string.h>
 	<stack>
 
+1560407401 source:d:\@study\patc\patc\1003.cpp
+	<iostream>
+
+1560408848 source:d:\@study\patc\patc\main.cpp
+	<iostream>
+	"c1003.h"
+
+1560408545 d:\@study\patc\patc\include\c1002.h
+
+1560408522 source:d:\@study\patc\patc\src\c1002.cpp
+	"c1002.h"
+	<iostream>
+	<stdlib.h>
+	<stack>
+
+1560409858 d:\@study\patc\patc\include\c1003.h
+
+1560419015 source:d:\@study\patc\patc\src\c1003.cpp
+	"c1003.h"
+	<iostream>
+	<string.h>
+

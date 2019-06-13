@@ -1,3 +1,4 @@
+#include "c1002.h"
 #include <iostream>
 #include <stdlib.h>
 #include <stack>
@@ -12,8 +13,17 @@ using namespace std;
 
 */
 
-int main()
+c1002::c1002()
 {
+    //ctor
+}
+
+c1002::~c1002()
+{
+    //dtor
+}
+
+void c1002::writeTheNum(){
     string numStr[] = {"ling","yi","er","san","si","wu","liu","qi","ba","jiu"};
     stack<string> sumStack;
     char num;
@@ -38,6 +48,4 @@ int main()
         cout<<sumStack.top();
         sumStack.pop();
     }
-
-    return 0;
 }
