@@ -9,9 +9,11 @@
 1560407401 source:d:\@study\patc\patc\1003.cpp
 	<iostream>
 
-1560408848 source:d:\@study\patc\patc\main.cpp
+1560497835 source:d:\@study\patc\patc\main.cpp
+	"c1004.h"
 	<iostream>
-	"c1003.h"
+	<string>
+	<list>
 
 1560408545 d:\@study\patc\patc\include\c1002.h
 
@@ -21,10 +23,18 @@
 	<stdlib.h>
 	<stack>
 
-1560409858 d:\@study\patc\patc\include\c1003.h
+1560419743 d:\@study\patc\patc\include\c1003.h
 
-1560419015 source:d:\@study\patc\patc\src\c1003.cpp
+1560419654 source:d:\@study\patc\patc\src\c1003.cpp
 	"c1003.h"
 	<iostream>
 	<string.h>
+
+1560494252 d:\@study\patc\patc\include\c1004.h
+	<iostream>
+	<string>
+	<list>
+
+1560496244 source:d:\@study\patc\patc\src\c1004.cpp
+	"c1004.h"
 

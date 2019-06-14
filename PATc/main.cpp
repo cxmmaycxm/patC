@@ -1,11 +1,11 @@
 #include <iostream>
-#include "c1003.h"
+#include "c1004.h"
 
 using namespace std;
 
 int main()
 {
-    c1003::sayYes();
-
+    c1004 stu;
+    stu.getInf();
     return 0;
 }
